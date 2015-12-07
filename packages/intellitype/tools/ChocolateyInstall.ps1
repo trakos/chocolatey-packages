@@ -1,4 +1,4 @@
-$packageName = 'intellitype'
+﻿$packageName = 'intellitype'
 $installerType = 'msi'
 $32BitUrl = 'http://download.microsoft.com/download/8/2/5/82583391-DABD-4392-9219-1C249BAD2BDD/ITPx86_1033_8.20.469.0.exe'
 $64BitUrl = 'http://download.microsoft.com/download/9/4/B/94B55335-FAC0-4A99-A038-5FE1C2F5CF09/ITPx64_1033_8.20.469.0.exe'

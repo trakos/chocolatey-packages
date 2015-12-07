@@ -7,7 +7,7 @@
     <authors>Microsoft</authors>
     <owners>trakos</owners>
     <projectUrl>https://www.microsoft.com/en-us/download/details.aspx?id=26949</projectUrl>
-    <iconUrl>https://github.com/trakos/chocolatey-packages/raw/master/icons/intellitype.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/trakos/chocolatey-packages/master/icons/intellitype.png</iconUrl>
     <description>Microsoft IntelliType is the brand driver for Microsoft's series of computer keyboards.
 	
 	IntelliType supports all known Microsoft keyboards (including those that are shipped as parts of desktop sets, as well as entertainment keyboards – i.e. those that are intended for Media center).</description>
