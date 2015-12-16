@@ -8,7 +8,7 @@
     <owners>trakos</owners>
     <projectUrl>http://www.realtek.com.tw/downloads/downloadsView.aspx?Langid=1&amp;PNid=24&amp;PFid=24&amp;Level=4&amp;Conn=3&amp;DownTypeID=3&amp;GetDown=false</projectUrl>
     <iconUrl>https://cdn.rawgit.com/trakos/chocolatey-packages/master/icons/realtek-hd-audio-driver.png</iconUrl>
-    <description>Audio drivers available for download from the Realtek website are general drivers for our audio ICs, and may not offer the customizations made by your system/motherboard manufacturer. To be sure you obtain the full features/customizations provided in your original audio product, please download the latest drivers from your system/motherboard manufacturer's website.</description>
+    <description>Audio drivers available for download from the Realtek website are general drivers for their audio ICs, and may not offer the customizations made by your system/motherboard manufacturer. To be sure you obtain the full features/customizations provided in your original audio product, please download the latest drivers from your system/motherboard manufacturer's website.</description>
 	<summary>Realtek High Definition Audio Driver</summary>
     <tags>realtek hd high definition audio codecs drivers</tags>
     <packageSourceUrl>https://github.com/trakos/chocolatey-packages/tree/master/packages/realtek-hd-audio-driver</packageSourceUrl>  
