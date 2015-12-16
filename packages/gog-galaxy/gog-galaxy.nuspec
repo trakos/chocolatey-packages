@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>gog-galaxy</id>
+    <version>1.1.5.28</version>
+    <title>GOG Galaxy</title>
+    <authors>GOG</authors>
+    <owners>trakos</owners>
+    <projectUrl>http://www.gog.com/galaxy</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/trakos/chocolatey-packages/master/icons/gog-galaxy.png</iconUrl>
+    <description>GOG Galaxy is a fully optional client to install, play and update your games from gog.com. It also offers online multiplayer, achievements, chat, game-time tracking and more - but it’s up to you which features you want to use.</description>
+	<summary>GOG Galaxy</summary>
+    <tags>gog.com gog galaxy</tags>
+    <packageSourceUrl>https://github.com/trakos/chocolatey-packages/tree/master/packages/gog-galaxy</packageSourceUrl>  
+	<dependencies>
+        <dependency id="vcredist2012" />
+    </dependencies>
+  </metadata>
+</package>
